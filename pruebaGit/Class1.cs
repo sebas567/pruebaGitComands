@@ -14,5 +14,12 @@ namespace pruebaGit
             return ola;
         
         }
+
+        public static string despedirse(string nombre)
+        {
+            string ola = "bye " + nombre;
+            return ola;
+
+        }
     }
 }

@@ -21,5 +21,15 @@ namespace pruebaGit
         {
             label1.Text = Class1.saludar(textBox1.Text);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = Class1.despedirse(textBox1.Text);
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
