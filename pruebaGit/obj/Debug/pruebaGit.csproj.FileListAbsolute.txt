@@ -7,3 +7,4 @@ C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.Gener
 C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.CoreCompileInputs.cache
 C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.exe
 C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.pdb
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.Form1.resources
