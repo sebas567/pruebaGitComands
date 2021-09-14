@@ -1,0 +1,9 @@
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\bin\Debug\pruebaGit.exe.config
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\bin\Debug\pruebaGit.exe
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\bin\Debug\pruebaGit.pdb
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csprojAssemblyReference.cache
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.Properties.Resources.resources
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.GenerateResource.cache
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.csproj.CoreCompileInputs.cache
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.exe
+C:\Users\sbarr\source\repos\pruebaGit\pruebaGit\obj\Debug\pruebaGit.pdb
